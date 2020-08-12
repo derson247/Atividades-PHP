@@ -18,9 +18,13 @@
         
             <br>
             <a href="operadores-matematicos.php">Operadores Matemáticos | </a>
-            <a href="exercicio2.php">Exercicio 2 | </a>
-            <a href="exercicio3.php">Exercicio 3 | </a>
-            <a href="exercicio4.php">Exercicio 4</a>
+            <a href="calculo-media.php">Calculo de Média | </a>
+            <a href="validacao-login.php">Validacao de Login | </a>
+            <a href="verifica-primo.php">Verificar se é Número Primo</a>
+            <a href="calculo-salario.php">Calculo de Sálario</a>
+            <a href="array-meses.php">Array Meses</a>
+            <a href="validaCodigoBarras.php">Validar Código de Barras</a>
+            <a href="validaCpf.php">Validar CPF</a>
             <br><br>
       
         </div>
