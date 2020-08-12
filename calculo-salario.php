@@ -12,6 +12,7 @@
             Informe o valor das vendas do funcionarior<br><input name="valorVendas"><br><br>
             <button type="submit">Enviar</button>
         </form>
+            <br/><a style="text-align: center" href="index.php">Home</a><br><br>
          </div>
          </body>
 </html>

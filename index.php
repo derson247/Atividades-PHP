@@ -19,12 +19,13 @@
             <br>
             <a href="operadores-matematicos.php">Operadores Matemáticos | </a>
             <a href="calculo-media.php">Calculo de Média | </a>
-            <a href="validacao-login.php">Validacao de Login | </a>
-            <a href="verifica-primo.php">Verificar se é Número Primo</a>
-            <a href="calculo-salario.php">Calculo de Sálario</a>
-            <a href="array-meses.php">Array Meses</a>
-            <a href="validaCodigoBarras.php">Validar Código de Barras</a>
-            <a href="validaCpf.php">Validar CPF</a>
+            <a href="validacao-login.php">Validacao de Login | </a><br />
+            <a href="verifica-primo.php">Verificar se é Número Primo | </a>
+            <a href="calculo-salario.php">Calculo de Sálario | </a>
+            <a href="array-meses.php">Array Meses | </a><br />
+            <a href="validaCodigoBarras.php">Validar Código de Barras | </a>
+            <a href="validaCpf.php">Validar CPF | </a>
+            <a href="array-calculo-media.html">Array - Calculo de Média</a>
             <br><br>
       
         </div>

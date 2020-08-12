@@ -18,7 +18,7 @@
         <form action="validaCpf.php" method="post">
             Informe o Cpf<br><input name="cpf" size="11" maxlength="11"><br><br>
             <input name="btvalidar" type="submit" id="btvalidar" value="  Validar  ">
-        </form><br /><br />
+        </form><br/><a style="text-align: center" href="index.php">Home</a><br><br>
   
 <?php function validaCPF($cpf)
 {	

@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Exercicio 3</title>
+        <title>Validar Código de Barras</title>
         <style>
             a {
                 text-decoration: none;
@@ -18,7 +18,8 @@
         <form action="validaCodigoBarras.php" method="post">
             Informe o Codigo de Barras:<br><input name="codigo" maxlength="13"><br><br>
             <input name="enviar" type="submit"  value="Validar">
-        </form><br /><br />
+        </form>
+             <br/><a style="text-align: center" href="index.php">Home</a><br><br>
          </div>
     </body>
 </html>
